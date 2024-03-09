@@ -26,7 +26,7 @@ export default function index() {
         <meta name="author" content="adsmanager" />
         <meta property="og:title" content="รับทำโฆษณาออนไลน์สายเทา" />
         <meta property="og:description" content="รับทำโฆษณาออนไลน์สายเทา Google, YouTube, Facebook" />
-        <link rel="canonical" href="https://www.service-ads.com/Course" />
+        <link rel="canonical" href="https://www.servicesadss.com/Course" />
       </Head>
 
       <div className="container">

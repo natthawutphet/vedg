@@ -20,10 +20,10 @@ export default function Home() {
               "@context": "https://schema.org",
               "@type": "Person",
               "name": "adsmanager",
-              "url": "https://www.service-ads.com/",
-              "Image": "https://www.service-ads.com/img/ads.jpg",
+              "url": "https://www.servicesadss.com/",
+              "Image": "https://www.servicesadss.com/img/ads.jpg",
               "sameAs": [
-                "https://www.service-ads.com/favicon.ico"
+                "https://www.servicesadss.com/favicon.ico"
               ]
             }
           `}
@@ -39,7 +39,7 @@ export default function Home() {
         <meta property="og:title" content="รับทำโฆษณาออนไลน์สายเทา" />
         <meta property="og:description" content="รับทำโฆษณาออนไลน์สายเทา Google, YouTube, Facebook" />
          
-        <link rel="canonical" href="https://www.service-ads.com/" />
+        <link rel="canonical" href="https://www.servicesadss.com/" />
 </Head>
   
   

@@ -31,7 +31,7 @@ export default function page() {
         
 
 
-           <link rel="canonical" href="https://www.service-ads.com/Facebook" />
+           <link rel="canonical" href="https://www.servicesadss.com/Facebook" />
 
 
         

@@ -68,10 +68,10 @@ const App = () => {
            <meta name="author" content="adsmanager"/>
            <meta property="og:title" content="website สำหรับทำโฆษณาสายเทา"/>
            <meta property="og:description" content="nload template website สำหรับทำโฆษณาสายเทา ฟรี"/>
-  <meta property="og:image" content="https://www.service-ads.com/img/ads.jpg"/>
+  <meta property="og:image" content="https://www.servicesadss.com/img/ads.jpg"/>
        
        
-  <link rel="canonical" href="https://www.service-ads.com/Dowloads" /> 
+  <link rel="canonical" href="https://www.servicesadss.com/Dowloads" /> 
 
     </Head>
     <div className="container text-center" >

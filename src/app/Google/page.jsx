@@ -21,8 +21,8 @@ export default function index() {
            <meta name="author" content="adsmanager"/>
            <meta property="og:title" content="รับทำโฆษณาGoogleAdsสายเทา"/>
            <meta property="og:description" content="รับทำโฆษณาGoogleAdsสายเทา โฆษณาสายเทาเพื่อธุรกิจของคุณ"/>
-    <meta property="og:image" content="https://www.service-ads.com/img/ads.jpg"/>
-    <link rel="canonical" href='https://www.service-ads.com/Google' /> 
+    <meta property="og:image" content="https://www.servicesadss.com/img/ads.jpg"/>
+    <link rel="canonical" href='https://www.servicesadss.com/Google' /> 
     </Head>
     
     <div className="img-container">
