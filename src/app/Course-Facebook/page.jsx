@@ -1,4 +1,6 @@
+
 import Image from "next/image";
+
 
 import Link from 'next/link';
 import Head from 'next/head';
@@ -20,7 +22,11 @@ export default function HomePage() {
         <meta name="author" content="adsmanager" />
         <meta property="og:title" content="รับทำโฆษณาออนไลน์สายเทา" />
         <meta property="og:description" content="รับทำโฆษณาออนไลน์สายเทา Google, YouTube, Facebook" />
+
         <link rel="canonical" href="https://www.service-ads.com/Course-Facebook" />
+
+        <link rel="canonical" href="https://www.servicesadss.com/Course-Facebook" />
+
       </Head>
     
 
@@ -34,6 +40,7 @@ export default function HomePage() {
 
 </p>
 <div className="text-center">
+
     
 <div className="Googleimg">
 
@@ -43,7 +50,13 @@ export default function HomePage() {
 
 <div className="imgc"><img src="img/class.jpg" className='cfb' alt="คอร์สเรียนโฆษณา" /></div>
             </div>
-           
+
+   
+
+        
+         
+        
+
 <hr />
 <ul>
     <h3> คอร์สเรียนโฆษณาFacebookสายเทา ราคาสุดคุ้มค่า เพียง10,000 บาท</h3>

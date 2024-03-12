@@ -72,6 +72,11 @@ const App = () => {
        
        
   <link rel="canonical" href="https://www.service-ads.com/Dowloads" /> 
+  <meta property="og:image" content="https://www.servicesadss.com/img/ads.jpg"/>
+       
+       
+  <link rel="canonical" href="https://www.servicesadss.com/Dowloads" /> 
+
 
     </Head>
     <div className="container text-center" >
@@ -82,9 +87,13 @@ const App = () => {
 
 
 
-  <div className="p-2 flex-fill">
+  <div className="p-2 flex-fill w-50">
+
  
-     <Image src="/img/gg.png" alt="Ads สายเทา" width={1040} height={1040} className="imgp" />
+     <Image src="/img/gg.png" alt="Ads สายเทา" width={480} height={480} className="imgg" />
+
+    
+
   <DownloadButtonWithCountdown fileName="Google" url="gg.zip" />
 
   </div>

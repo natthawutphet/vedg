@@ -20,7 +20,7 @@ function page() {
         <meta name="author" content="adsmanager" />
         <meta property="og:title" content="รับทำโฆษณาออนไลน์สายเทา" />
         <meta property="og:description" content="รับทำโฆษณาออนไลน์สายเทา Google, YouTube, Facebook" />
-        <link rel="canonical" href="https://www.service-ads.com/Contact" />
+        <link rel="canonical" href="https://www.servicesadss.com/Contact" />
       </Head>
     
 
@@ -28,7 +28,7 @@ function page() {
       <div className="container contact-page text-center">
    
    
-   <h2>Contact </h2>
+
    <h3>ติดต่อทีมงานบริการ การตลาดGoogleYouTubeFacebook</h3>
    <div className="contact-wrapper">
        <div className="form-container">

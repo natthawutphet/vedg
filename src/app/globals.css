@@ -57,6 +57,7 @@
   }
   
 
+
   .imgp {
     width: 100%;
     height: auto;
@@ -74,6 +75,11 @@
        width: 200px;
        margin: auto;
 }
+.imgg {
+  width: 350px;
+  margin: auto;
+  
+}
 
 
   @media screen and (max-width: 600px) {
@@ -83,3 +89,4 @@
     
   }
   
+

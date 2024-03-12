@@ -2,7 +2,9 @@
 import React from 'react'
 import Link from 'next/link';
 import Head from 'next/head'
+
 import Image from "next/image";
+
 
 
 export const metadata = {
@@ -26,6 +28,9 @@ export default function index() {
            <meta property="og:description" content="รับทำโฆษณาGoogleAdsสายเทา โฆษณาสายเทาเพื่อธุรกิจของคุณ"/>
     <meta property="og:image" content="https://www.service-ads.com/img/ads.jpg"/>
     <link rel="canonical" href='https://www.service-ads.com/Google' /> 
+
+    <meta property="og:image" content="https://www.servicesadss.com/img/ads.jpg"/>
+    <link rel="canonical" href='https://www.servicesadss.com/Google' /> 
     </Head>
     
     <div className="img-container">
@@ -77,6 +82,42 @@ export default function index() {
        <Link href="/">โฆษณา Google Ads สายเทา</Link>
   
        <Image src="/GoogleAds/Google_Ads(10).jpg" alt="Ads สายเทา" width={1040} height={1040} className="imgp" />
+
+
+   
+          <img src="/GoogleAds/gg.jpg" alt="Facebook Ads" className="imggg" />
+      <Link href="/">โฆษณา Google Ads สายเทา</Link>
+ 
+          <img src="/GoogleAds/Google_Ads(1).jpg" alt="Facebook Ads" className="imggg"/>
+       <Link href="/">โฆษณา Google Ads สายเทา</Link>
+    
+          <img src="/GoogleAds/Google_Ads(2).jpg" alt="Facebook Ads" className="imggg" />
+       <Link href="/">โฆษณา Google Ads สายเทา</Link>
+    
+          <img src="/GoogleAds/Google_Ads(3).jpg" alt="Facebook Ads" className="imggg" />
+        <Link href="/">โฆษณา Google Ads สายเทา</Link>
+    
+          <img src="/GoogleAds/Google_Ads(4).jpg" alt="Facebook Ads" className="imggg"/>
+        <Link href="/">โฆษณา Google Ads สายเทา</Link>
+    
+          <img src="/GoogleAds/Google_Ads(5).jpg" alt="Facebook Ads" className="imggg" />
+        <Link href="/">โฆษณา Google Ads สายเทา</Link>
+    
+          <img src="/GoogleAds/Google_Ads(6).jpg" alt="Facebook Ads" className="imggg"/>
+        <Link href="/">โฆษณา Google Ads สายเทา</Link>
+    
+     
+          <img src="/GoogleAds/Google_Ads(8).jpg" alt="Facebook Ads"className="imggg" />
+       <Link href="/">โฆษณา Google Ads สายเทา</Link>
+    
+          <img src="/GoogleAds/Google_Ads(9).jpg" alt="Facebook Ads"className="imggg"/>
+        <Link href="/">โฆษณา Google Ads สายเทา</Link>
+     
+          <img src="/GoogleAds/Google_Ads(10).jpg" alt="Facebook Ads" className="imggg" />
+       <Link href="/">โฆษณา Google Ads สายเทา</Link>
+  
+          <img src="/GoogleAds/Google_Ads(11).jpg" alt="Facebook Ads" className="imggg" />
+
       <Link href="/">โฆษณา Google Ads สายเทา</Link>
 
 </div>

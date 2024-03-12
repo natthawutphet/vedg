@@ -13,6 +13,8 @@ function Nav() {
     <Image src="/img/logo.png" alt="Favicon" width={60} height={60} className="imgp"  />
 
 
+
+
     
     </Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -54,7 +56,10 @@ function Nav() {
       <span className="navbar-text">
       <Link className="line" href="/line">
     
+
     <Image src="/img/line.gif" alt="Favicon" width={150} height={35} />
+
+
     </Link>
    
       </span>

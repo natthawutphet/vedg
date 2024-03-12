@@ -69,10 +69,17 @@ const App = () => {
            <meta name="author" content="adsmanager"/>
            <meta property="og:title" content="website สำหรับทำโฆษณาสายเทา"/>
            <meta property="og:description" content="nload template website สำหรับทำโฆษณาสายเทา ฟรี"/>
+
   <meta property="og:image" content="https://www.service-ads.com/img/ads.jpg"/>
        
        
   <link rel="canonical" href="https://www.service-ads.com/Dowloads" /> 
+
+  <meta property="og:image" content="https://www.servicesadss.com/img/ads.jpg"/>
+       
+       
+  <link rel="canonical" href="https://www.servicesadss.com/Dowloads" /> 
+
 
     </Head>
     <div className="container text-center" >
@@ -80,8 +87,11 @@ const App = () => {
 
       <div className="d-flex">
   <div className="p-2 flex-fill"> 
+
  
- <Image src="/img/Facebook.png" alt="Ads สายเทา" width={1040} height={1040} className="imgp" />
+ <Image src="/img/Facebook.png" alt="Ads สายเทา" width={400} height={400} className="imgg" />
+
+
   <DownloadButtonWithCountdown fileName="Facebook" url="fb.zip" />
   
   </div>

@@ -5,6 +5,7 @@ function line() {
   return (
     <>
     <div className="myline">
+
     <Link href='/line'>    <img src="/img/line.png" className='bounce' alt="line" /></Link>
     </div>
       

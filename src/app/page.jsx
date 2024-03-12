@@ -20,10 +20,10 @@ export default function Home() {
               "@context": "https://schema.org",
               "@type": "Person",
               "name": "adsmanager",
-              "url": "https://www.service-ads.com/",
-              "Image": "https://www.service-ads.com/img/ads.jpg",
+              "url": "https://www.servicesadss.com/",
+              "Image": "https://www.servicesadss.com/img/ads.jpg",
               "sameAs": [
-                "https://www.service-ads.com/favicon.ico"
+                "https://www.servicesadss.com/favicon.ico"
               ]
             }
           `}
@@ -39,12 +39,17 @@ export default function Home() {
         <meta property="og:title" content="รับทำโฆษณาออนไลน์สายเทา" />
         <meta property="og:description" content="รับทำโฆษณาออนไลน์สายเทา Google, YouTube, Facebook" />
          
+
         <link rel="canonical" href="https://www.service-ads.com/" />
 </Head>
 
-<header>
+
+
+  
+
+<header className="text-center" >
       
-      <div className="text-center">
+
           
           <div className="h1">รับทำโฆษณา ออนไลน์ Google, Facebook สายเทา</div>
        
@@ -54,6 +59,7 @@ export default function Home() {
               <div className="col-md-6 py-5 wow fadeInLeft">
                 <h1 className="mb-4">โฆษณาออนไลน์สายเทาเพื่อธุรกิจของคุณ</h1>
                 <p className="text-lg text-grey mb-5">ผู้เชี่ยวชาญด้านการตลาดบน Google, YouTube และ Facebook</p>
+
                 <Link href="https://www.youtube.com/channel/UCMSh0LMC_RczXmJ6Qtxo4QA" className="btn btn-danger btn-split">
               
                 <svg xmlns="img/caret-right-square-fill.svg" width="25" height="25" fill="currentColor" className="bi bi-caret-right-square-fill" viewBox="0 0 16 16">
@@ -62,17 +68,18 @@ export default function Home() {
 สอนโฆษณา สายเทา
 
                   </Link>
+
+            
               </div>
               <div className="col-md-6 py-5 wow zoomIn">
                 <div className="img-fluid text-center">
                
     
                   <div className="image-container">
+
               <Image src="/img/ads.jpg" alt="Ads สายเทา" width={480} height={480} className="imgp" />
               
             </div><Link href="/">โฆษณา Facebook Ads สายเทา</Link>
-
-
 
                 </div>
               </div>
@@ -81,7 +88,7 @@ export default function Home() {
           </div>
         </div>
     
-      </div>
+     
              
              
     
@@ -98,9 +105,11 @@ export default function Home() {
       
                   <div className="image-container">
 
+
                   <Image src="/img/Facebook.png" alt="Ads สายเทา" width={480} height={480} className="imgp" />
 
        
+
             </div><Link href="/">โฆษณา Facebook Ads สายเทา</Link>
                 </div>
                 <div className="body">
@@ -122,8 +131,11 @@ export default function Home() {
                 <div className="header">
     
                   <div className="image-container">
+
          
               <Image src="/img/Google.png" alt="Ads สายเทา" width={480} height={480} className="imgp" />
+
+
             </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
                 </div>
                 <div className="body">
@@ -144,8 +156,10 @@ export default function Home() {
             
                   <div className="image-container">
 
+
               <Image src="/img/class.jpg" alt="Ads สายเทา" width={480} height={480} className="imgp" />
-            </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
+
+          </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
     
                 </div>
                 <div className="body">
@@ -181,11 +195,13 @@ export default function Home() {
               <div className="img-fluid py-3 text-center">
        
     
+
                 <div className="imglogo">
            
-              <Image src="/img/logo.png" alt="Ads สายเทา" width={480} height={480} className="imgp" />
+              <Image src="/img/logo.png" alt="Ads สายเทา" width={480} height={480} className="imgp m-5" />
             </div>
       
+
               </div>
             </div>
           </div>
@@ -210,7 +226,11 @@ export default function Home() {
       
                 <div className="image-container">
 
+
               <Image src="/Google/Google (1).jpg" alt="Ads สายเทา" width={480} height={480} className="imgp" />
+
+         
+
             </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
     
     
@@ -227,8 +247,12 @@ export default function Home() {
               <div className="card">
     
               <div className="image-container">
+
           
               <Image src="/Google/Google (2).jpg" alt="Ads สายเทา" width={480} height={480} className="imgp" />
+
+      
+
             </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
     
                 <div className="card-body">
@@ -241,7 +265,11 @@ export default function Home() {
               <div className="card">
     
               <div className="image-container">
+
               <Image src="/Google/Google (3).jpg" alt="Ads สายเทา" width={480} height={480} className="imgp" />
+
+          
+
             </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
     
                 <div className="card-body">
@@ -256,7 +284,11 @@ export default function Home() {
               <div className="card">
     
               <div className="image-container">
+
               <Image src="/Google/Google (4).jpg" alt="Ads สายเทา" width={480} height={480} className="imgp" />
+
+        
+
             </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
     
                 <div className="card-body">
@@ -273,8 +305,10 @@ export default function Home() {
               <div className="card">
     
               <div className="image-container">
+
          
               <Image src="/Google/Google (5).jpg" alt="Ads สายเทา" width={480} height={480} className="imgp" />
+
             </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
     
                 <div className="card-body">
@@ -290,7 +324,9 @@ export default function Home() {
               <div className="card">
     
               <div className="image-container">
+
               <Image src="/Google/Google (6).jpg" alt="Ads สายเทา" width={480} height={480} className="imgp" />
+
             </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
     
                 <div className="card-body">
@@ -303,8 +339,11 @@ export default function Home() {
               <div className="card">
     
               <div className="image-container">
+
        
               <Image src="/Google/Google (7).jpg" alt="Ads สายเทา" width={480} height={480} className="imgp" />
+
+
             </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
     
                 <div className="card-body">
@@ -319,8 +358,11 @@ export default function Home() {
               <div className="card">
      
               <div className="image-container">
+
          
               <Image  src="/Google/Google (8).jpg"  alt="Ads สายเทา" width={480} height={480} className="imgp" />
+
+
             </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
     
       

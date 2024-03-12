@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Head from 'next/head'
 import Image from "next/image";
 
+
 export const metadata = {
   title: "รับทำโฆษณาFacebookAdsสายเทา โฆษณาสายเทาเพื่อธุรกิจของคุณ",
   description: "รับทำโฆษณาFacebookAdsสายเทา โฆษณาสายเทาเพื่อธุรกิจของคุณ",
@@ -32,7 +33,11 @@ export default function page() {
         
 
 
+
            <link rel="canonical" href="https://www.service-ads.com/Facebook" />
+
+           <link rel="canonical" href="https://www.servicesadss.com/Facebook" />
+
 
 
         
@@ -55,6 +60,7 @@ export default function page() {
 
       
               
+
 
          
          
@@ -89,6 +95,39 @@ export default function page() {
         <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
                 
         <Image src="/facebook_Ads_สายเทา/โฆษณา_FaceBook_Ads_สายเทา (10).jpg" alt="Ads สายเทา" width={1040} height={1040} className="imgp" />
+
+          <img src="/facebook_Ads_สายเทา/facebook-ads.jpg" alt="Facebook Ads" className="imgfb" />
+       <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
+                 
+          <img src="/facebook_Ads_สายเทา/โฆษณา_FaceBook_Ads_สายเทา (1).jpg" alt="Facebook Ads" className="imgfb" />
+       <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
+                
+          <img src="/facebook_Ads_สายเทา/โฆษณา_FaceBook_Ads_สายเทา (2).jpg" alt="Facebook Ads" className="imgfb" />
+       <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
+                 
+          <img src="/facebook_Ads_สายเทา/โฆษณา_FaceBook_Ads_สายเทา (3).jpg" alt="Facebook Ads" className="imgfb" />
+       <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
+                 
+          <img src="/facebook_Ads_สายเทา/โฆษณา_FaceBook_Ads_สายเทา (4).jpg" alt="Facebook Ads" className="imgfb" />
+       <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
+                 
+          <img src="/facebook_Ads_สายเทา/โฆษณา_FaceBook_Ads_สายเทา (5).jpg" alt="Facebook Ads" className="imgfb" />
+        <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
+                
+          <img src="/facebook_Ads_สายเทา/โฆษณา_FaceBook_Ads_สายเทา (6).jpg" alt="Facebook Ads" className="imgfb" />
+        <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
+                
+          <img src="/facebook_Ads_สายเทา/โฆษณา_FaceBook_Ads_สายเทา (7).jpg" alt="Facebook Ads" className="imgfb" />
+        <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
+             
+          <img src="/facebook_Ads_สายเทา/โฆษณา_FaceBook_Ads_สายเทา (8).jpg" alt="Facebook Ads" className="imgfb" />
+        <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
+                
+          <img src="/facebook_Ads_สายเทา/โฆษณา_FaceBook_Ads_สายเทา (9).jpg" alt="Facebook Ads" className="imgfb" />
+        <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
+                
+          <img src="/facebook_Ads_สายเทา/โฆษณา_FaceBook_Ads_สายเทา (10).jpg" alt="Facebook Ads" className="imgfb" />
+
        <Link href="/">รับทำโฆษณาFacebook Ads สายเทา</Link>
 
                  

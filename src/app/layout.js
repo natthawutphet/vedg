@@ -1,13 +1,10 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 import "./style.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
-
+import 'bootstrap/dist/css/bootstrap.css'
 import Nav from "./Nav";
 import Footer from "./Footer";
 import Head from "next/head";
-
-
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -18,11 +15,6 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
-
-
-
-
-
   return (
     <html lang="en">
       <Head>
@@ -54,7 +46,7 @@ export default function RootLayout({ children }) {
 <meta name="google-site-verification" content="PbQl1IGdzrIFiFnnE39varHoAFip5AIAk4QLxK-Nyto" />
  <meta property="og:image" content="https://www.service-ads.com/logo.ico"/>
 
-
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
 
       </Head>
       <body className={inter.className}>
@@ -63,11 +55,9 @@ export default function RootLayout({ children }) {
 
 
         <Footer/>
-        
-      
-        </body>
+        <script async src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" />
 
-        <script async src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"/>
+        </body>
     </html>
   );
 }

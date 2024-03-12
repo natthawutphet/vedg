@@ -1,7 +1,9 @@
 
 import Link from 'next/link';
 import Head from 'next/head';
+
 import Image from "next/image";
+
 
 export const metadata = {
   title: "คอร์สเรียนโฆษณาออนไลน์ โฆษณาGoogleสายเทา",
@@ -20,7 +22,11 @@ export default function HomePage() {
         <meta name="author" content="adsmanager" />
         <meta property="og:title" content="รับทำโฆษณาออนไลน์สายเทา" />
         <meta property="og:description" content="รับทำโฆษณาออนไลน์สายเทา Google, YouTube, Facebook" />
+
         <link rel="canonical" href='https://www.service-ads.com/Course-Google' />
+
+        <link rel="canonical" href='https://www.servicesadss.com/Course-Google' />
+
       </Head>
     
 
@@ -36,14 +42,20 @@ export default function HomePage() {
 <div className="text-center">
    
 <div className="text-center">
+
 <div className="Googleimg">
 
 <Image src="/img/gg.png" alt="Ads สายเทา" width={180} height={180} className="imgp" />
 </div>
-            
-            <div className="imgc"><img src="img/class.jpg" className='cfb' alt="คอร์สเรียนโฆษณา" /></div>
+      
             </div>
             
+
+   
+  
+            </div>
+  
+
 </div>
 <hr />
 <ul>
@@ -73,7 +85,7 @@ export default function HomePage() {
 <img src="line.gif" className='lineb' alt="line" />
 </div>
     </Link>
-</div>
+
 
 
 
