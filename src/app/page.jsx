@@ -20,10 +20,10 @@ export default function Home() {
               "@context": "https://schema.org",
               "@type": "Person",
               "name": "adsmanager",
-              "url": "https://www.servicesadss.com/",
-              "Image": "https://www.servicesadss.com/img/ads.jpg",
+              "url": "https://www.service-ads.com/",
+              "Image": "https://www.service-ads.com/img/ads.jpg",
               "sameAs": [
-                "https://www.servicesadss.com/favicon.ico"
+                "https://www.service-ads.com/favicon.ico"
               ]
             }
           `}
@@ -51,14 +51,15 @@ export default function Home() {
       
 
           
-          <div className="h1">รับทำโฆษณา ออนไลน์ Google, Facebook สายเทา</div>
+          <div className="h1">  <strong>รับทำโฆษณา </strong> ออนไลน์ Google, Facebook <strong>รับยิงแอด สายเทา</strong></div>
        
           <div className="container">
           <div className="page-banner home-banner">
             <div className="row align-items-center flex-wrap-reverse h-100">
               <div className="col-md-6 py-5 wow fadeInLeft">
-                <h1 className="mb-4">โฆษณาออนไลน์สายเทาเพื่อธุรกิจของคุณ</h1>
-                <p className="text-lg text-grey mb-5">ผู้เชี่ยวชาญด้านการตลาดบน Google, YouTube และ Facebook</p>
+                <div className="nav"> 
+                <h1 className="mb-4"><strong>โฆษณาสายเทา</strong>  เพื่อธุรกิจของคุณ</h1>
+                <p className="h4">ผู้เชี่ยวชาญด้านการตลาดบน Google, YouTube และ Facebook</p> </div>
 
                 <Link href="https://www.youtube.com/channel/UCMSh0LMC_RczXmJ6Qtxo4QA" className="btn btn-danger btn-split">
               
@@ -79,7 +80,7 @@ export default function Home() {
 
               <Image src="/img/ads.jpg" alt="Ads สายเทา" width={480} height={480} className="imgp" />
               
-            </div><Link href="/">โฆษณา Facebook Ads สายเทา</Link>
+            </div><Link href="https://www.service-ads.com">โฆษณาFacebookAdsสายเทา</Link>
 
                 </div>
               </div>
@@ -110,14 +111,14 @@ export default function Home() {
 
        
 
-            </div><Link href="/">โฆษณา Facebook Ads สายเทา</Link>
+            </div><Link href="https://www.service-ads.com/Facebook">โฆษณาFacebookAdsสายเทา</Link>
                 </div>
                 <div className="body">
-                  <h5 className="text-secondary">รับทำโฆษณา Facebook Ads สายเทา</h5>
-                  <p>ทำโฆษณา เว็บไซต์ ต่างๆ ด้วยทีมงานมือถือชีพ
+                  <h5> <strong>รับทำโฆษณา </strong>Facebook สายเทา</h5>
+                  <h6>ทำโฆษณา เว็บไซต์ ต่างๆ ด้วยทีมงานมือถือชีพ
                     อัตราค่าบริการเพียงเดือนละ 9,900 บาทจบไม่มีค่าใช้จ่ายใดๆเพิ่มเติมทั้งสิ้น
                     มีรีวิวจากลูกค้าจริงให้ชมไม่บิดไม่ทิ้งงานแน่นอน
-                  </p>
+                  </h6>
                   <Link href="/line" className="btn btn-primary">พร้อมเริ่มแล้ว</Link>
                 </div>
               </div>
@@ -136,15 +137,15 @@ export default function Home() {
               <Image src="/img/Google.png" alt="Ads สายเทา" width={480} height={480} className="imgp" />
 
 
-            </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
+            </div><Link href="https://www.service-ads.com/Google">โฆษณาGoogleAds <strong>สายเทา</strong></Link>
                 </div>
                 <div className="body">
-                  <h5 className="text-secondary">รับทำ โฆษณาGoogle สายเทา</h5>
-                  <p>ทำโฆษณา เว็บไซต์ ต่างๆ ด้วยทีมงานมือถือชีพ
+                  <h5 > <strong>รับทำโฆษณาGoogleสายเทา</strong></h5>
+                  <h6>ทำโฆษณา เว็บไซต์ ต่างๆ ด้วยทีมงานมือถือชีพ
                     อัตราค่าบริการเพียงเดือนละ 9,900 บาทจบไม่มีค่าใช้จ่ายใดๆเพิ่มเติมทั้งสิ้น
                     มีรีวิวจากลูกค้าจริงให้ชมไม่บิดไม่ทิ้งงานแน่นอน
                     ทางทีมงานมีการรายงานผลงานทุกวัน
-                  </p>
+                  </h6>
                   <Link href="/line" className="btn btn-primary">พร้อมเริ่มแล้ว</Link>
                 </div>
               </div>
@@ -164,11 +165,11 @@ export default function Home() {
                 </div>
                 <div className="body">
                   <h5 className="text-secondary">คอร์สสอนทำโฆษณา Google Facebook สายเทา</h5>
-                  <p>คอร์สเรียนโฆษณาออนไลน์
-                    มาเรียนรู้เทคนิคการทำโฆษณาออนไลน์ให้มีประสิทธิภาพกับเรา </p>
-                    <h5>คอร์สเรียนGoogle สายเทา ราคาสุดคุ้มค่า เพียง18500 บาท
-                   คอร์สเรียนโฆษณาFacebookสายเทา ราคาสุดคุ้มค่า เพียง10,000 บาท</h5>
-    
+                  <h6>คอร์สเรียนโฆษณาออนไลน์
+                    มาเรียนรู้เทคนิคการทำโฆษณาออนไลน์ให้มีประสิทธิภาพกับเรา
+                    คอร์สเรียนGoogle สายเทา ราคาสุดคุ้มค่า เพียง18500 บาท
+                   คอร์สเรียนโฆษณาFacebookสายเทา ราคาสุดคุ้มค่า เพียง10,000 บาท
+                   </h6>
                   <Link href="/line"  className="btn btn-primary"> พร้อมเริ่มแล้ว</Link>
                 </div>
               </div>
@@ -181,20 +182,20 @@ export default function Home() {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6 py-3 wow fadeInUp">
-              <span className="subhead"> ทีมงานที่มีคุณภาพทำงานใส่ใจทุกรายละเอียด </span>
-              <h2 className="title-section">สนใจจ้างทำโฆษณาออนไลน์สายเทาไว้ใจเราได้</h2>
-              <div className="divider"></div>
+              <h5 className="tbx" > ทีมงานที่มีคุณภาพทำงานใส่ใจทุกรายละเอียด </h5>
+              <h2 className="tbx">สนใจจ้างทำโฆษณาออนไลน์สายเทาไว้ใจเราได้</h2>
+      
     
-             <p>รูปภาพทั้งหมดนี้เป็นส่วนหนึ่งในการทำงานของเราเท่านั้นนะครับ</p>
-              <p>สร้างแบรนด์ด้วยโฆษณาออนไลน์สายเทา บริการตลาดบน Facebook, Google, YouTube</p>
+             <div className="tbx">รูปภาพทั้งหมดนี้เป็นส่วนหนึ่งในการทำงานของเราเท่านั้นนะครับ
+              สร้างแบรนด์ด้วยโฆษณาออนไลน์สายเทา บริการตลาดบน Facebook, Google, YouTube
     
-              <p>ประสบการณ์บริการโฆษณาออนไลน์สายเทาที่เหนือชั้น ด้วยการส่งมอบผลลัพธ์ที่รวดเร็วและตรงตามเวลาที่กำหนด! ค้นหาทีมงานมืออาชีพที่คุณสามารถไว้วางใจได้ พร้อมการดูแลลูกค้าอย่างไม่มีที่ติบน Facebook, YouTube และ Google</p>
+              ประสบการณ์บริการโฆษณาออนไลน์สายเทาที่เหนือชั้น ด้วยการส่งมอบผลลัพธ์ที่รวดเร็วและตรงตามเวลาที่กำหนด! ค้นหาทีมงานมืออาชีพที่คุณสามารถไว้วางใจได้ พร้อมการดูแลลูกค้าอย่างไม่มีที่ติบน Facebook, YouTube และ Google</div>
               <Link href="/line" className="btn btn-primary mt-3">ติดต่อสอบถาม</Link>
             </div>
             <div className="col-lg-6 py-3 wow fadeInRight">
               <div className="img-fluid py-3 text-center">
        
-    
+              
 
                 <div className="imglogo">
            

@@ -80,7 +80,20 @@
   margin: auto;
   
 }
+.tbx {
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+}
 
+body {
+  font-family: "Arial", sans-serif;
+}
+.nav {
+  font-family: "Helvetica", sans-serif;
+}
+.text {
+  font-family: "Times New Roman", serif;
+}
 
   @media screen and (max-width: 600px) {
 
