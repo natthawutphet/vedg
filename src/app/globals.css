@@ -1,0 +1,85 @@
+#nav {
+    background-color: rgb(192, 191, 191);
+}
+
+.img-container {
+    max-width: 900px;
+    margin: auto;
+}
+
+.imgfb {
+    width: 100%;
+}
+.imggg {
+    width: 100%;
+}
+
+.imgc {
+    max-width: 600px;
+    margin: auto;
+}
+.imgc img {
+    width: 100%;
+}
+.linec {
+    width: 250px;
+}
+.linec img {
+    width: 100%;
+}
+
+.myline {
+    width: 50px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 100;
+}
+.myline img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
+  
+  img.bounce {
+    animation: bounce 3s infinite;
+  }
+  
+
+  .imgp {
+    width: 100%;
+    height: auto;
+  
+  }
+  
+  .imgpc {
+      width: 1080px;
+      height: 1080px;
+  }
+.imglogo {
+    max-width: 200px;
+}
+.Googleimg {
+       width: 200px;
+       margin: auto;
+}
+
+
+  @media screen and (max-width: 600px) {
+
+
+
+    
+  }
+  
