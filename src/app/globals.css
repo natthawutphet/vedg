@@ -84,16 +84,26 @@
   font-family: 'Courier New', Courier, monospace;
   color: black;
 }
+ h4,h5,h6,p {
+  color: #000;
+ }
 
-body {
-  font-family: "Arial", sans-serif;
-}
-.nav {
-  font-family: "Helvetica", sans-serif;
-}
-.text {
-  font-family: "Times New Roman", serif;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   @media screen and (max-width: 600px) {
 

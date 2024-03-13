@@ -61,14 +61,10 @@ export default function Home() {
                 <h1 className="mb-4"><strong>โฆษณาสายเทา</strong>  เพื่อธุรกิจของคุณ</h1>
                 <p className="h4">ผู้เชี่ยวชาญด้านการตลาดบน Google, YouTube และ Facebook</p> </div>
 
-                <Link href="https://www.youtube.com/channel/UCMSh0LMC_RczXmJ6Qtxo4QA" className="btn btn-danger btn-split">
-              
-                <svg xmlns="img/caret-right-square-fill.svg" width="25" height="25" fill="currentColor" className="bi bi-caret-right-square-fill" viewBox="0 0 16 16">
-  <path d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm5.5 10a.5.5 0 0 0 .832.374l4.5-4a.5.5 0 0 0 0-.748l-4.5-4A.5.5 0 0 0 5.5 4z"/>
-</svg>
-สอนโฆษณา สายเทา
-
-                  </Link>
+                <Link href="https://www.youtube.com/channel/UCMSh0LMC_RczXmJ6Qtxo4QA" >
+            
+            <Image src="/img/youtube.jpg" alt="Ads สายเทา" width={150} height={80} className="yt" />
+              </Link>
 
             
               </div>
